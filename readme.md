@@ -36,11 +36,11 @@ A entrada será através de um arquivo, composto pelos seguintes itens:
 
 * M linhas com M caracteres em cada linha, onde cada caractere pode ser 0 ou 1 (a própria matriz).
 
-### Funcionamento 
+### Funcionamento
 
 Seu algoritmo deve calcular as gerações seguintes, até atingit a geração solicitada através da linha de comando.
 
-Para utilizar processamento paralelo, o grupo deve executar a aplicação com 1 (execução Sequencial <br> 2 <br> 4), 2, 3 e 4 threads. Além disso, o grupo deve medir o tempo de processamento de cada execução.
+Para utilizar processamento paralelo, o grupo deve executar a aplicação com 1 (execução sequencial), 2, 3 e 4 threads. Além disso, o grupo deve medir o tempo de processamento de cada execução.
 
 ### Tabela com resultados
 
